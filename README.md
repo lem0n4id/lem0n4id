@@ -1,7 +1,5 @@
 <h1 align="center">Hey! Welcome to my github profile <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="30"/></h1>
 
-- 😄 Pronouns: He/They
-
 ![Profile views](https://gpvc.arturio.dev/lem0n4id)
  
 ### 👨‍💻 Programming languages
