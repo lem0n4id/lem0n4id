@@ -75,10 +75,14 @@ Myself Lenin kennedy. I'm a student majoring in Computer Science 🎓 from Vello
 </p>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lem0n4id&show_icons=true" alt="Lenin's GitHub stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lem0n4id&layout=compact" alt="Top Langs"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lem0n4id" alt="Lenin's wakatime stats"></a>
 
+<!--
 [![Lenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem0n4id&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lem0n4id&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Lenin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lem0n4id)](https://github.com/anuraghazra/github-readme-stats) 
-
+-->
 
 
