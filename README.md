@@ -57,8 +57,6 @@ Myself Lenin kennedy. I'm a student majoring in Computer Science 🎓 from Vello
 
 <br>
 <!-- Software -->
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
-
 
 <br>
 <!-- Framework -->
