@@ -1,6 +1,6 @@
 # Hey there👋
 
-Myself Lenin kennedy. I'm a student majoring in Computer Science 🎓 from Vellore Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨. I'm currently into Web Development.
+Myself Lenin kennedy. I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨. I'm currently into Web Development.
 
 
 ### Know more about me:
