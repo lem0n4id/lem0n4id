@@ -9,7 +9,7 @@ Myself Lenin kennedy. I'm a student pursuing Electronics and Computer Engineerin
 - 🔭 I’m currently exploring Web Development using Flask-python 🚀.
 - 🖋️ I'm currently learning DSA 
 - 😄 Pronouns - He/They
-- 📫 How to reach me: Twitter/Linkedin (preferable)
+- 📫 How to reach me: [Twitter](https://twitter.com/coderlens)
 <!-- - ⚡ Fun fact: -->
 
 
