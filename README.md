@@ -1,6 +1,11 @@
-# Hey there👋
+# 👋 Hey there! I'm Lenin Kennedy
 
-Myself Lenin kennedy. I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨. I'm currently into Web Development.
+### I am an Explorer 👨‍🚀
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lem0n4id&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Lenin's GitHub stats" align="right"></a>
+
+
+I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore Institute of Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real-life problems ✨. I'm currently into Web Development.
 
 
 ### Know more about me:
@@ -9,7 +14,7 @@ Myself Lenin kennedy. I'm a student pursuing Electronics and Computer Engineerin
 - 🔭 I’m currently exploring Web Development using Flask-python 🚀.
 - 🖋️ I'm currently learning DSA 
 - 😄 Pronouns - He/They
-- 📫 How to reach me: [Twitter](https://twitter.com/coderlens)
+- 🐦 Let's talk more in [Twitter](https://twitter.com/coderlens)
 <!-- - ⚡ Fun fact: -->
 
 
@@ -77,9 +82,9 @@ Myself Lenin kennedy. I'm a student pursuing Electronics and Computer Engineerin
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=lem0n4id&show_icons=true" alt="Lenin's GitHub stats"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lem0n4id&layout=compact" alt="Top Langs"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lem0n4id&layout=compact" alt="Lenin's wakatime stats"></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lem0n4id&layout=compact&theme=react" alt="Top Langs"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lem0n4id&layout=compact&theme=react" alt="Lenin's wakatime stats"></a>
 
 <!--
 [![Lenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem0n4id&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
