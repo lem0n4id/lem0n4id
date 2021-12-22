@@ -15,6 +15,7 @@ I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore In
 - 🖋️ I'm currently learning DSA 
 - 😄 Pronouns - He/They
 - 🐦 Let's talk more in [Twitter](https://twitter.com/coderlens)
+- 📫 Mail: [leninkennedy4work@gmail.com](mailto:leninkennedy4work@gmail.com)
 <!-- - ⚡ Fun fact: -->
 
 
