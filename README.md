@@ -75,10 +75,11 @@ I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore In
 <h2> My socials 🚀 </h2>
 
 <p>
-  <a target="_blank" href="https://twitter.com/coderlens"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/lenink"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
-  <a target="_blank"href="https://coderlens.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25" /> </a>
-  <a target="_blank"href="https://polywork.com/coderlens" target="blank"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black" height="25" /> </a>
+  <a target="_blank" href="https://twitter.com/coderlens"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/lenink"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+  <a target="_blank" href="https://coderlens.hashnode.dev/"><img alt="Hashnode blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="25" /> </a>
+  <a target="_blank" href="https://polywork.com/coderlens"><img alt="Polywork" src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black" height="25" /> </a>
+   <a target="_blank" href="mailto:leninkennedy4work@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </p>
 
 
