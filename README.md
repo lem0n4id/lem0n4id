@@ -73,7 +73,7 @@ I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore In
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lem0n4id&layout=compact&theme=react" alt="Top Langs"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lem0n4id&layout=compact&theme=react" alt="Lenin's wakatime stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lem0n4id" alt="Lenin's wakatime stats"></a>
 
 <!--
 [![Lenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem0n4id&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
