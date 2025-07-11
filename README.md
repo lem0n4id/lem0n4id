@@ -12,7 +12,7 @@ I'm a student pursuing Electronics and Computer Engineering 🎓 from Vellore In
 
 - 🌱 I’m a tech enthusiast & an open-source advocate 🤓.
 - 🔭 I’m currently exploring Web Development 🚀.
-- 😄 Pronouns - He/They
+- 😄 Pronouns - He/Him
 - 😛 DM on [Twitter](https://twitter.com/coderlens)
 <!-- - ⚡ Fun fact: -->
 
